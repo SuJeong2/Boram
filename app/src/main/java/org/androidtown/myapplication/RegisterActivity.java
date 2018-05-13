@@ -19,7 +19,6 @@ import android.widget.Toast;
 
 public class RegisterActivity extends AppCompatActivity {
 
-    //습관 등록하는 activity
     //습관 이름
     EditText habit_title_input;
 
