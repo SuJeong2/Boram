@@ -35,6 +35,8 @@
                 android:inputType="textPassword"/>
         </TableRow>
     </TableLayout>
+
+
     <Button
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
